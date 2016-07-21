@@ -19,7 +19,12 @@ main {
   text-align: center; }
 
 .content img {
-  float: right; }
+  float: right;
+  margin-left: 15px; }
+
+.image_float {
+  float: right;
+  width: 64px; }
 
 ul {
   font-size: 1.1em;
